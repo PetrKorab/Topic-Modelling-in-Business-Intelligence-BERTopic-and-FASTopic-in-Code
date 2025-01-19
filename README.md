@@ -1,4 +1,4 @@
-# Topic Modelling in Business Intelligence: Discover BERTopic, FASTopic and Top2Vec
+# Topic Modelling in Business Intelligence: BERTopic and FASTopic in Code
 
-Python code for **Topic Modelling in Business Intelligence: Discover BERTopic, FASTopic and Top2Vec**, submitted to *Towards Data Science (Medium)*. 
+Python code for **Topic Modelling in Business Intelligence: BERTopic and FASTopic in Code**, submitted to *Towards Data Science (Medium)*. 
 Article is [here]()
