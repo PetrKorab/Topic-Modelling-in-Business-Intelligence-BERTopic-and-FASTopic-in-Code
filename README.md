@@ -6,6 +6,6 @@ Article is [here]()
 
 
 <p float="left">
-  <img src="BERTopic_Russia.png" width="380" />
-  <img src="heatmap_Arabica.png" width="380" />
+  <img src="FASTopic_time_development_8.png" width="380" />
+  <img src="BERtopic_time_development_8.png" width="380" />
 </p>
