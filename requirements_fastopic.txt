@@ -7,3 +7,4 @@ scikit-learn==1.6.1
 topmost==0.0.5
 umap-learn==0.5.7
 openpyxl==3.1.5
+nbformat==5.10.4
